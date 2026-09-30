@@ -1,0 +1,30 @@
+{
+  "sidebar": {
+    "overview": "Übersicht",
+    "analytics": "Analysen",
+    "reports": "Berichte",
+    "settings": "Einstellungen",
+    "users": "Benutzer",
+    "billing": "Abrechnung"
+  },
+  "stats": {
+    "total_users": "Benutzer insgesamt",
+    "active_today": "Heute aktiv",
+    "revenue": "Umsatz",
+    "growth": "Wachstum"
+  },
+  "table": {
+    "name": "Name",
+    "email": "E-Mail",
+    "role": "Rolle",
+    "status": "Status",
+    "actions": "Aktionen",
+    "no_data": "Keine Daten verfügbar",
+    "showing": "Zeige {{start}} bis {{end}} von {{bistal}} Einträgen"
+  },
+  "notifications": {
+    "new_user": "Neuer Benutzer registriert: {{name}}",
+    "payment_received": "Zahlung von ${{amount}} erhalten",
+    "report_ready": "Ihr Bericht steht zum Download bereit"
+  }
+}
