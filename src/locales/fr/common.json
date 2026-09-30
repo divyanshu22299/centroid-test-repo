@@ -1,0 +1,23 @@
+{
+  "buttons": {
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "back": "Retourner"
+  },
+  "messages": {
+    "welcome": "Bienvenue sur notre plateforme",
+    "goodbye": "À bientôt !",
+    "loading": "Chargement, veuillez patienter...",
+    "success": "Opération terminée avec succès",
+    "error": "Un problème est survenu. Veuillez réessayer."
+  },
+  "labels": {
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort_by": "Trier par",
+    "items_per_page": "Éléments par page"
+  }
+}
