@@ -1,0 +1,23 @@
+{
+  "buttons": {
+    "submit": "Absenden",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "back": "Zurückgehen"
+  },
+  "messages": {
+    "welcome": "Willkommen auf unserer Plattform",
+    "goodbye": "Bis bald!",
+    "loading": "Laden, bitte warten...",
+    "success": "Vorgang erfolgreich abgeschlossen",
+    "error": "Etwas ist schief gelaufen. Bitte versuchen Sie es erneut."
+  },
+  "labels": {
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort_by": "Sortieren nach",
+    "items_per_page": "Elemente pro Seite"
+  }
+}
