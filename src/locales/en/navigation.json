@@ -1,0 +1,22 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "blog": "Blog"
+  },
+  "footer": {
+    "copyright": "© 2026 Centroid. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "support": "Support"
+  },
+  "hero": {
+    "title": "Translate your content globally",
+    "subtitle": "Reach customers in every language with automated localization",
+    "cta_primary": "Get Started Free",
+    "cta_secondary": "Watch Demo"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "buttons": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Go Back"
+  },
+  "messages": {
+    "welcome": "Welcome to our platform",
+    "goodbye": "See you soon!",
+    "loading": "Loading, please wait...",
+    "success": "Operation completed successfully",
+    "error": "Something went wrong. Please try again."
+  },
+  "labels": {
+    "search": "Search",
+    "filter": "Filter",
+    "sort_by": "Sort By",
+    "items_per_page": "Items per page"
+  }
+}

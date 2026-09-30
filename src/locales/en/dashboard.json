@@ -1,0 +1,30 @@
+{
+  "sidebar": {
+    "overview": "Overview",
+    "analytics": "Analytics",
+    "reports": "Reports",
+    "settings": "Settings",
+    "users": "Users",
+    "billing": "Billing"
+  },
+  "stats": {
+    "total_users": "Total Users",
+    "active_today": "Active Today",
+    "revenue": "Revenue",
+    "growth": "Growth"
+  },
+  "table": {
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "status": "Status",
+    "actions": "Actions",
+    "no_data": "No data available",
+    "showing": "Showing {{start}} to {{end}} of {{total}} entries"
+  },
+  "notifications": {
+    "new_user": "New user registered: {{name}}",
+    "payment_received": "Payment of ${{amount}} received",
+    "report_ready": "Your report is ready to download"
+  }
+}
