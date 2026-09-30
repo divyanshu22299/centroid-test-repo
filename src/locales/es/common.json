@@ -1,0 +1,23 @@
+{
+  "buttons": {
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "back": "Volver"
+  },
+  "messages": {
+    "welcome": "Bienvenido a nuestra plataforma",
+    "goodbye": "¡Hasta pronto!",
+    "loading": "Cargando, por favor espere...",
+    "success": "Operación completada con éxito",
+    "error": "Algo salió mal. Por favor, inténtelo de nuevo."
+  },
+  "labels": {
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort_by": "Ordenar por",
+    "items_per_page": "Elementos por página"
+  }
+}
