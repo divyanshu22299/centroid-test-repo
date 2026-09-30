@@ -1,0 +1,30 @@
+{
+  "sidebar": {
+    "overview": "Visión general",
+    "analytics": "Analítica",
+    "reports": "Informes",
+    "settings": "Configuración",
+    "users": "Usuarios",
+    "billing": "Facturación"
+  },
+  "stats": {
+    "total_users": "Total de usuarios",
+    "active_today": "Activos hoy",
+    "revenue": "Ingresos",
+    "growth": "Crecimiento"
+  },
+  "table": {
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "role": "Rol",
+    "status": "Estado",
+    "actions": "Acciones",
+    "no_data": "No hay datos disponibles",
+    "showing": "Mostrando {{start}} a {{end}} de {{atal}} entradas"
+  },
+  "notifications": {
+    "new_user": "Nuevo usuario registrado: {{name}}",
+    "payment_received": "Pago de ${{amount}} recibido",
+    "report_ready": "Su informe está listo para descargar"
+  }
+}
